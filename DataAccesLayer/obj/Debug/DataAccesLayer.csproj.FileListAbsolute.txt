@@ -8,7 +8,6 @@ D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLaye
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\bin\Debug\EntityLayer.dll.config
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\bin\Debug\EntityFramework.xml
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
-D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.dll
@@ -21,3 +20,4 @@ D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLaye
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.Migrations.mig_writerimagesizechange1.resources
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.Migrations.mig_writerimagesizechange11.resources
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.Migrations.mig_writer_addstatus.resources
+D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache

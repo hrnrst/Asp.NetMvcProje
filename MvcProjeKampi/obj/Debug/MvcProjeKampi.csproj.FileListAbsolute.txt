@@ -73,7 +73,6 @@ D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\bin\System.Diagnostics.DiagnosticSource.xml
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csprojAssemblyReference.cache
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CoreCompileInputs.cache
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CopyComplete
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.dll
@@ -189,3 +188,4 @@ D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\bin\System.Xml.XPath.XDocument.dll
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\bin\FluentValidation.dll
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\bin\FluentValidation.xml
+D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.AssemblyReference.cache

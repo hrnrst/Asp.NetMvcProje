@@ -11,7 +11,6 @@ D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\bin\Debug\EntityLayer.dll.config
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.xml
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
-D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
@@ -114,3 +113,4 @@ D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\bin\Debug\System.Xml.XPath.XDocument.dll
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.dll
 D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\bin\Debug\FluentValidation.xml
+D:\Desktop\Udemy-Özel Çalışmalarım\ASP .NET MVC\MvcProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
